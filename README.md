@@ -58,20 +58,9 @@ This project was created using the following technologies.
 ### Setup Config.env file
 
 ```shell
-NODE_ENV = development
-PORT =5000
-URI =http://localhost:3000
-MONGO_URI =
-JWT_SECRET_KEY =
-JWT_EXPIRE = 60m
-RESET_PASSWORD_EXPIRE = 3600000
+DB_USERNAME =
+DB_PASSWORD =
 
-# Nodemailer
-
-SMTP_HOST =smtp.gmail.com
-SMTP_PORT =587
-EMAIL_USERNAME = example@gmail.com
-EMAIL_PASS = your_password
 ```
 
 ### Installation
