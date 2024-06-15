@@ -55,7 +55,7 @@ This project was created using the following technologies.
 
 ## Configuration and Setup
 
-### Setup Config.env file
+### Setup .env file
 
 ```shell
 DB_USERNAME =
