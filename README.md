@@ -1,4 +1,4 @@
-# Mern Blog App
+# Todo List
 
 This is a simple Todo List application built using the MERN stack. It allows users to add, update and delete tasks. The application uses a MongoDB database to store the tasks.
 
@@ -111,10 +111,6 @@ Server runs on http://localhost:5000 and client on http://localhost:3000
 ---
 
 ![4  done todos](https://github.com/monika163/Todo-List/assets/61625011/66190add-a7a9-4a3e-8951-9687c6dcdeae)
-
----
-
-![5  blog details](https://github.com/monika163/Mern-Blog-App/assets/61625011/428390c6-0d1b-4a89-b02b-2bc904dd2076)
 
 ---
 
